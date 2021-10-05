@@ -1,0 +1,8 @@
+pytesseract
+pillow
+opencv-python
+numpy
+google-cloud-vision
+cachetools
+twilio
+flask
